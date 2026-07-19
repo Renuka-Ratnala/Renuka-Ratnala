@@ -1,8 +1,8 @@
 # Hi 👋, I'm Renuka Devi Ratnala
 
-### 💻 Java Backend Developer | B.Tech IT Student
+### 💻 Java Backend Developer | Full-Stack-Developer | B.Tech IT Student
 
-I enjoy building full-stack applications using Java, Spring Boot and React. I love solving real-world problems through software and continuously improving my development skills.
+Passionate about building scalable full-stack applications using Java, Spring Boot and React. I enjoy solving real-world problems through software and continuously improving my development skills
 
 ## 🙋 About Me
 
@@ -14,14 +14,37 @@ I enjoy building full-stack applications using Java, Spring Boot and React. I lo
 
 ## 🛠 Tech Stack
 
-- Java
-- Spring Boot
-- React
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 📄 Smart Resume Advisor
+Analyzes resumes against job descriptions and generates skill-based match scores with personalized improvement suggestions
+
+### 📌 Referral & Internship Tracking Platform
+A Spring Boot application for managing internship applications, referrals, application status, and job tracking
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Spring Security
+- REST API Development
+- System Design Fundamentals
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renuka-ratnala-1761b1330)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deviratnala13@gmail.com)
 <!--
 **Renuka-Ratnala/Renuka-Ratnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
