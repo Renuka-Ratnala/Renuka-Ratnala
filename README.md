@@ -1,6 +1,6 @@
 # Hi 👋, I'm Renuka Devi Ratnala
 
-### 💻 Java Backend Developer | Full-Stack-Developer | B.Tech IT Student
+### 💻 Java Backend Developer | Spring Boot & React | B.Tech IT Student
 
 Passionate about building scalable full-stack applications using Java, Spring Boot and React. I enjoy solving real-world problems through software and continuously improving my development skills
 
@@ -12,7 +12,6 @@ Passionate about building scalable full-stack applications using Java, Spring Bo
 - 💡 Interested in Backend Development and Full-Stack Development
 - 🎯 Looking for Software Engineering Internships
 
-## 🛠 Tech Stack
 
 ## 🛠️ Tech Stack
 
