@@ -32,6 +32,12 @@ Analyzes resumes against job descriptions and generates skill-based match scores
 ### 📌 Referral & Internship Tracking Platform
 A Spring Boot application for managing internship applications, referrals, application status, and job tracking
 
+## 📊 GitHub Stats
+
+![Renuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renuka-Ratnala&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renuka-Ratnala&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Renuka-Ratnala&theme=tokyonight)
+
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
@@ -40,6 +46,7 @@ A Spring Boot application for managing internship applications, referrals, appli
 - System Design Fundamentals
 
 ## 📫 Connect With Me
+Always open to collaborating on interesting projects and learning opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renuka-ratnala-1761b1330)
 
