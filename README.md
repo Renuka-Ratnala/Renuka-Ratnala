@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="renu git.jpeg" alt="GitHub Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Renuka Devi Ratnala
 
 ### 💻 Java Backend Developer | Spring Boot & React | B.Tech IT Student
