@@ -44,7 +44,14 @@ A Spring Boot application for managing internship applications, referrals, appli
 - REST API Development
 - System Design Fundamentals
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renuka-Ratnala&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renuka-Ratnala&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Renuka-Ratnala&theme=tokyonight" />
+</p>
 
 ## 📫 Connect With Me
 Always open to collaborating on interesting projects and learning opportunities.
