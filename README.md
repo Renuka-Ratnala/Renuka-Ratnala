@@ -46,8 +46,8 @@ A Spring Boot application for managing internship applications, referrals, appli
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renuka-Ratnala&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renuka-Ratnala&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renuka-Ratnala&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renuka-Ratnala&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
