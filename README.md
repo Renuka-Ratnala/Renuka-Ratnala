@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renuka-Ratnala/Renuka-Ratnala/main/renu%20git.jpeg" alt="GitHub Banner" width="100%">
+  <img src="renu git.jpeg" alt="GitHub Banner" width="100%">
 </p>
 
 # Hi 👋, I'm Renuka Devi Ratnala
